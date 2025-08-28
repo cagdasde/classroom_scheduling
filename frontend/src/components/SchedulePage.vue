@@ -25,7 +25,7 @@
         </tbody>
       </table>
   
-      <p v-else>Veriler yükleniyor...</p>
+      
     </div>
   </template>
   

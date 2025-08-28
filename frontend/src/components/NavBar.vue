@@ -15,7 +15,6 @@
         <li><router-link to="/classrooms" @click="closeMenu">Sınıflar</router-link></li>
         <li><router-link to="/classrooms/add" @click="closeMenu">Yeni Sınıf</router-link></li>
         <li><router-link to="/schedule" @click="closeMenu">Programlar</router-link></li>
-        <li><router-link to="/schedules/add" @click="closeMenu">Yeni Program</router-link></li>
       </ul>
     </div>
   </nav>
