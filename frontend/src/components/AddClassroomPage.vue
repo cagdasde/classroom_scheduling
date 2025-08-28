@@ -2,6 +2,7 @@
   <div class="page-wrapper">
     <div class="form-container">
       <h2>Yeni Sınıf Ekle</h2>
+      // Sınıf ekleme formu
       <form @submit.prevent="addRoom" class="form">
         <div class="form-group">
           <label for="name">Sınıf Adı</label>
